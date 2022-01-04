@@ -15,4 +15,7 @@ dependencies:
   - pandas
   - qiskit
   - ./qiskit-textbook-src
+  - qiskit-machine-learning
+  - 'qiskit-machine-learning[sparse]'
+  - tensorflow
   - ibm_quantum_widgets
